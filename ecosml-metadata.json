@@ -1,0 +1,8 @@
+{
+  "id": "91486b59-3fe2-40cc-87ec-a2e1016b1cdf",
+  "name": "leaf-spectral-models-over-neon-domains",
+  "overview": "Leaf spectral models used in the New Phytologist 2022 paper",
+  "organization": "uw-enspec",
+  "language": "python",
+  "owner": "zwanguw"
+}
